@@ -1,0 +1,21 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "A simple microservice built using javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "api",
+    "microservice"
+  ],
+  "author": "M-Labyrin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
+}
